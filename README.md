@@ -22,6 +22,7 @@ https://picsum.photos/v2/list?fbclid=IwAR39xrkB7nWqHd1nIyRqvsBIDhuR-FbSWvF7DVaz5
 
 ScreenShot:-{
 ![Capture](https://user-images.githubusercontent.com/106397010/176993561-3c1606e5-e160-4e43-8bd8-e43d0f44dd6b.PNG)
-![Capturew](https://user-images.githubusercontent.com/106397010/176993563-112a33d9-8fb5-4ca4-aa4e-f6d6bc9cdf8b.PNG)
+![wpture](https://user-images.githubusercontent.com/106397010/176993615-5bfb8222-aa69-4867-9d25-e7ca0c57ccf8.PNG)
+
 
 }
